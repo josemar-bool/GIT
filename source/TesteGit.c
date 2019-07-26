@@ -3,6 +3,6 @@
 
 int main()
 {
-	printf("Testando o Git!");
+	printf("Nova mensagem em outro branch");
 
 }
